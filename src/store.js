@@ -2,6 +2,8 @@ import { createStore } from 'redux'
 import { dragons } from './dragons'
 
 
+export const store = null;
+
 // 1. Create a Store 
 //  - It should use dev tools
 //  - It should have an initialState object containing homeDragons and warDragons

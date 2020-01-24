@@ -13,6 +13,7 @@ import { dragons } from './dragons'
 //  - Handle the action SEND_TO_WAR by:
 //      - filtering "action.dragon" out of homeDragons 
 //      - adding "action.dragon" to of warDragons 
+//  - Create another action to send the dragon back home
 
 // Uncomment this line to make your store availible in the browser:
 // window.store = store  

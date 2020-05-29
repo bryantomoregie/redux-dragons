@@ -1,4 +1,4 @@
-# React Dragons
+# Redux Dragons
 
 * Start in store.js
 * Once you finish the deliverables there, go to App.js
